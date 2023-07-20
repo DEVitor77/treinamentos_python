@@ -12,5 +12,3 @@ else:
     letra = 'e'
 
 print(f' a letra corresp é: ')
-
-    

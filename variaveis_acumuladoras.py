@@ -1,7 +1,7 @@
 credito = float(input('seu credito: ')) #variavel acumuladora
 total = 0 #variavel acumuladora
 
-preco = float(input('preço do item: '))
+preco = float(input('preço do item : '))
 while credito >= preco:
     total = total + preco
     credito = credito - preco

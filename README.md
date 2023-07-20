@@ -1,3 +1,3 @@
 # treinamentos_python
 
-Exercicios desenvolvidos na Faculdade durante o primeiro semestre.
+Exercicios desenvolvidos na faculdade durante o primeiro semestre.

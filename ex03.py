@@ -2,7 +2,6 @@
 é subtrair y de x quantas vezes for possível, até que o resultado se torne negativo. A quantidade de
  vezes que y foi subtraído de x é o quociente da divisão inteira de x por y.
 
-
 Segue abaixo o código em Python que implementa essa lógica:'''
 
 # Solicitando ao usuário os valores de x e y
@@ -17,7 +16,6 @@ while x >= y:
 
 # Exibindo o resultado
 print("O quociente da divisão inteira de", x, "por", y, "é", quociente)
-
 
 '''Note que nesse código utilizamos a variável quociente para contar a quantidade de vezes que y foi 
 subtraído de x.

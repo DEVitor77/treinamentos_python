@@ -7,5 +7,4 @@ while quero_comprar:
     opcao = input(input('continuar comprando (s/n)? '))
     if opcao  != 's':
         quero_comprar = False
-
 print(f'Total da compra: R$ {total:.2f}')

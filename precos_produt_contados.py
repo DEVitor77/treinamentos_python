@@ -6,7 +6,7 @@ crédito,	onde	X é	o	número	do	item.	Acrescente	as	instruções
 necessárias	para	ao	final	exibir	a	quantidade	de	itens	que	
 puderam	ser	comprados'''
 
-credito = float(input('Seu crédito: ')) 
+credito = float(input('Seu crédito:  ')) 
 total = 0
 item = 1
 
