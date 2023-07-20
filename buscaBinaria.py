@@ -11,4 +11,5 @@ def busca_binaria(valor, sequencia):
             fim = meio - 1
         else:
             inicio = meio + 1
-    return None            
+    return None         
+       

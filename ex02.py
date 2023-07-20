@@ -7,3 +7,4 @@ while contador < n:
         print(numero)
         contador += 1
     numero += 1
+    

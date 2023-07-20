@@ -1,3 +1,3 @@
 # treinamentos_python
 
-Aqui estão os execicios nas quais desenvolvo na faculdade e tambem nos cursos que efetuo
+Exercicios desenvolvidos na faculdade durante o primeiro semestre.
